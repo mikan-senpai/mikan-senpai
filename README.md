@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">   
   <a href="mailto:santanud5d80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a> 
-  <a href="https://twitter.com/Santanu20131244"><img src="https://img.shields.io/badge/<mikan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://twitter.com/Santanu20131244"><img src="https://img.shields.io/badge/<mikan>-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
 </p>
 
 
