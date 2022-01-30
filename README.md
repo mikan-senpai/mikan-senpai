@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <p align="center">   
   <a href="mailto:santanud5d80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a> 
-  <a href="https://twitter.com/Santanu20131244"><img src="https://img.shields.io/badge/<mikan>-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a> 
+  <a href="https://twitter.com/Santanu20131244"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
 </p>
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working on web development technologies like Advance Java , JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play valorant and csgo 🎱.
+- ⚡ Fun fact: I love to play valorant watch anime.
 
 
 
@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
