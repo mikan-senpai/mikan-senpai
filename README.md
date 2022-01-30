@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Santanu Adhikary - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Santanu Adhikary - aka mikan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
