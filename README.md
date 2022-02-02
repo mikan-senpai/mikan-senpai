@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## I'm a Electronics and Communication Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 🌱 I’m currently learning everything about Frontend , Backend technologies and DevOps 😅
+- 💪🏼 Future Goals: Learn everything 🤣 - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play valorant watch anime.
 
 
