@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hello, friend! I'm Santanu Adhikary - aka mikan
+  Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Santanu Adhikary - aka mikan
   <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 </h1>
 
 <p align="center">   
-  <a href="mailto:santanud5d80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a> 
-  <a href="https://twitter.com/Santanu20131244"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="mailto:santanud5d80@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
+  <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> 
+  <a href="https://twitter.com/Santanu20131244"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png"></a>
 </p>
 
 
