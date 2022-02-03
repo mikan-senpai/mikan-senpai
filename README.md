@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">   
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqGggXhLNMJLcpkPTbLTfNFqsVZtfzjwBgLRKtqWQjgdbnDcRdNhSGSVcWnBRBQGhVsq" target="_blank"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)"></a>
-  <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)"></a> 
-  <a href="https://twitter.com/Santanu20131244"><img src="![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqGggXhLNMJLcpkPTbLTfNFqsVZtfzjwBgLRKtqWQjgdbnDcRdNhSGSVcWnBRBQGhVsq" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a> 
+  <a href="https://twitter.com/Santanu20131244"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
 </p>
 
 
