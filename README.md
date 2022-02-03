@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">   
-  <a href="mailto:santanud5d80@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="29px"></a>
+  <a href="mailto:santanud5d80@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="29px" margin-left="29px"></a>
   <a href="https://www.linkedin.com/in/santanu-adhikary-396bb017a/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="29px"></a> 
   <a href="https://twitter.com/Santanu20131244"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" width="29px"></a>
 </p>
