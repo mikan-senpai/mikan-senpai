@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1> -->
 
 <h1>
-  Hey , I'm Santanu Adhikary - aka mikan
+  Hey , I'm Santanu Adhikary
  <img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
 </h1>
 
