@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <h1 align="center">
+  Hey , I'm Santanu Adhikary - aka mikan
+ <img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
+</h1> -->
 
-
-<h1 align="center">
+<h1>
   Hey , I'm Santanu Adhikary - aka mikan
  <img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
 </h1>
