@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   Hey , I'm Santanu Adhikary - aka mikan
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+ <img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
 </h1>
 
 <p align="center">   
