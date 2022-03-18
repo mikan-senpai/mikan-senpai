@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## I'm a Electronics and Communication Engineering Student  
 - 🔭 I’m an open source enthusiast
 - 👨‍💻 I’m currently working on web development technologies JavaScript, React etc.
-- 🌱 I’m currently learning everything about Frontend , Backend technologies and DevOps 😅
-- 💪🏼 Future Goals: Learn everything 🤣 - Never stop creating new ideas.
+- 🌱 I’m currently learning everything about <a href=""https://cedar-papyrus-050.notion.site/ReactJs-43e53af8294a4672a0102db8790fd642 target="_blank">Reactjs</a>😅
+- 💪🏼 Future Goals: Learn everything about Frontend and Backend technologies,DevOps and Blockchain 🤣 - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play valorant watch anime.
 
 
