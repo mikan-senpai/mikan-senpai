@@ -74,5 +74,4 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 <br/>
 
-<!-- ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif) -->
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6oVm5ocTB8B0rjO5dZk8Px?utm_source=generator" width="100%" height="380" frameBorder="0"     allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
