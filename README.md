@@ -75,5 +75,3 @@ Here are some ideas to get you started:
 <br/>
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-https://open.spotify.com/embed/track/6oVm5ocTB8B0rjO5dZk8Px?utm_source=generato
