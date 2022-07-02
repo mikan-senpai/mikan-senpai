@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
- https://gist.github.com/mikan-senpai/208735d83811890a473df1f1e14d2a81.js
+[check out](https://gist.github.com/mikan-senpai/208735d83811890a473df1f1e14d2a81)
