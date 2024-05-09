@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 ### Tools 🛠 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Teradata](https://a11ybadges.com/badge?logo=teradata)
-![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
+![Teradata](https://img.shields.io/static/v1?style=for-the-badge&message=Teradata&color=F37440&logo=Teradata&logoColor=FFFFFF&label=)
+![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![MySQL](https://a11ybadges.com/badge?logo=mysql)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
