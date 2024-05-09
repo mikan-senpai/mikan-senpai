@@ -73,8 +73,3 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 <br/>
-
-
- <! -- ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif) --> 
-
-[check out](https://gist.github.com/mikan-senpai/208735d83811890a473df1f1e14d2a81)
