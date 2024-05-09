@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Tools 🛠 
-![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 ![Teradata](https://img.shields.io/static/v1?style=for-the-badge&message=Teradata&color=F37440&logo=Teradata&logoColor=FFFFFF&label=)
 ![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![Amazon Identity Access Management](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Identity+Access+Management&color=DD344C&logo=Amazon+Identity+Access+Management&logoColor=FFFFFF&label=)
 ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=)
@@ -65,18 +65,11 @@ Here are some ideas to get you started:
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 ![Amazon Redshift](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Redshift&color=8C4FFF&logo=Amazon+Redshift&logoColor=FFFFFF&label=)
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
-
-
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=)
-
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-
 <br/>
