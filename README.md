@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
 ## I'm a Electronics and Communication Engineering Student  
-- 🔭 I’m an open source enthusiast
+- 🔭 I’m an open source enthusiast working in Cognizant
 - 👨‍💻 I’m currently working on web development technologies JavaScript, React-Js etc.
-- 🌱 I’m currently learning everything about React-js and  Backend technologies😅
-- 💪🏼 Future Goals: Learn everything about DevOps and Blockchain - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play valorant watch anime.
+- 🌱 I’m currently learning everything about Data Engineering , Artificial Intelligence and Analytics 😅
+- 💬 Ask me about tech and anime.
+- ⚡ Fun fact: I love to play valorant and watch anime.
 
 
 
