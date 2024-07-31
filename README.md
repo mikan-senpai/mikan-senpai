@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## I'm a Electronics and Communication Engineering Student  
 - 🔭 I’m an open source enthusiast working in Cognizant
-- 👨‍💻 I’m currently working on web development technologies JavaScript, React-Js etc.
+- 👨‍💻 I’m currently working on Cloud Technologies like AWS , Snowflake , etc 
 - 🌱 I’m currently learning everything about Data Engineering , Artificial Intelligence and Analytics 😅
 - 💬 Ask me about tech and anime.
 - ⚡ Fun fact: I love to play valorant and watch anime.
